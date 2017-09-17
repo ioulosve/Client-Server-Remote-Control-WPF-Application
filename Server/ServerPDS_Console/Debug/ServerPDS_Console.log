@@ -1,0 +1,10 @@
+﻿  utilities.cpp
+  ListManager.cpp
+  Generating Code...
+  Compiling...
+  Update.cpp
+  Main.cpp
+c:\users\theol\documents\visual studio 2017\projects\serverpds_console\serverpds_console\main.cpp(25): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  ServerPDS_Console.vcxproj -> C:\Users\theol\documents\visual studio 2017\Projects\ServerPDS_console\Debug\ServerPDS_Console.exe
+  ServerPDS_Console.vcxproj -> C:\Users\theol\documents\visual studio 2017\Projects\ServerPDS_console\Debug\ServerPDS_Console.pdb (Partial PDB)

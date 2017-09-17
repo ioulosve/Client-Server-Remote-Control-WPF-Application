@@ -1,0 +1,11 @@
+﻿  Change.cpp
+Change.cpp(50): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  ListHandler.cpp
+ListHandler.cpp(195): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+  Main.cpp
+Main.cpp(29): warning C4101: 'e': variabile locale senza riferimenti
+  SocketStream.cpp
+  Generazione codice in corso...
+  All 585 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generazione codice terminata
+  ServerPDS_Console.vcxproj -> C:\Users\theol\Documents\Visual Studio 2017\Projects\ServerPDS_Console\x64\Release\ServerPDS_Console.exe
